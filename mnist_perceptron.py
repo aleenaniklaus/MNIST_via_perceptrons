@@ -4,7 +4,7 @@
 # dataset using 10 perceptrons (identifying digits 0-9). To
 # run, you must give the learning rate via commandline, ie:
 #
-#   python awatson_A1.py 0.01
+#   python mnist_perceptron.py 0.01
 
 # this allows you to run your experiments in parallel (plug
 # your computer into a power source before doing this). I did
