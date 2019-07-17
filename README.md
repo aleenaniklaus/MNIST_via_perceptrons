@@ -3,7 +3,7 @@ This approach identifies digits in the MNIST dataset using 10 perceptrons. This 
 
 I will be creating a new solution using multi-layer neural nets next and we should see an improvement of accuracy with that approach, since I will be using a sigmoid function which doesn't rely on linearity in the data. 
 
-Housekeeping:
+##### Housekeeping:
 
 Feel free to use this code by citing it if you are using it for something academic, otherwise you may be penalized by your instructor for plagerizm; as I am creating this approach (along with my neural net approach) for CS 445 at Portland State University.
 
